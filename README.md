@@ -1,5 +1,5 @@
 # smsbomber
-Sms bombings script in python
+
 > otp spamming tool for Termux <br>
 Over 6+ working api
 

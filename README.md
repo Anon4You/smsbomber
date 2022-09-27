@@ -1,6 +1,6 @@
 # smsbomber
 
-> otp spamming tool for Termux <br>
+otp spamming tool for Termux <br>
 Over 6+ working api
 
 ## Installation commands 

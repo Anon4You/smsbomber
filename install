@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "---installing python figlet toilet"
+apt install python figlet toilet -y
+echo "---upgrading pip and installing module s"
+pip install --upgrade pip
+pip install requests
+echo "---installing smsbomber"
+curl -LO https://raw.githubusercontent.com/Anon4You/smsbomber/main/smsbomber
+figlet installed
+echo "now you can run the tool by typing"$'\e[32m'" smsbomber "$'\e[0m'
